@@ -1,4 +1,4 @@
-# Distributed System Project
+# Distributed Infrastructure for Web-Services
 
 This project handels SOAP requests and SOAP responses from servers and clients. The communication is network based and the client is expected to request an action which is supposed to be executed by servers under efficient time and load. The servers that perform that action will take on that action and provide appropriate response back to the client if the server's load is less than the threshold that has been devised.
 
